@@ -1,5 +1,5 @@
 # BuildingEscape
 
-Building Escape template with 4 different simple puzzles. 
+Developed with a tutorial planning to add some features.
 
 Developed in Unreal Engine 4.22
